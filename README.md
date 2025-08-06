@@ -1,4 +1,4 @@
-# COVID-19 Tracker
+# Theo dõi COVID-19
 
 ![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
 
@@ -9,4 +9,4 @@ Trong tài liệu này, chúng ta sẽ tạo một Trình theo dõi COVID-19 đ�
 
 Sau khi xem hết tài liệu này, bạn sẽ hiểu rõ về quy trình làm việc của React và cách sử dụng các hook.
 
-(Tham khảo project author Adrian Hajdin - JS Mastery, GitHub: https://github.com/adrianhajdin)
+(Tham khảo project author **Adrian Hajdin - JS Mastery**, GitHub: https://github.com/adrianhajdin)
